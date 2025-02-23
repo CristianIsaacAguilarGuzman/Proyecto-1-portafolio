@@ -1354,5 +1354,10 @@ font-weight:bolder;
 .parallex-content h6{
 color:#fff;
 }
+img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
 
 /*Basic-Stylesheets-End-Here*/
